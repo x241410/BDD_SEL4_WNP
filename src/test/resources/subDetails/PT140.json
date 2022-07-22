@@ -1,0 +1,6 @@
+{
+  "CheckCatchException" : {
+    "SUB" : "PT140_SUB",
+    "BAN" : "PT140_BAN"
+  }
+}

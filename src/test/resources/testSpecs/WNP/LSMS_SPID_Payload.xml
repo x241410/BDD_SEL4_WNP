@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:wlnp="http://www.telus.com/WLNP-PortabilityService">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <wlnp:GetLocalServiceProviderAndPortabilityByWtnRequest>
+         <wtn>#(TN)</wtn>
+      </wlnp:GetLocalServiceProviderAndPortabilityByWtnRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

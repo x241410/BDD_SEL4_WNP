@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:p="http://schemas.telus.com/wlnp/core/client" xmlns:ser="http://services.telus.com/wlnp/prm/services">
+   <soapenv:Header />
+   <soapenv:Body>
+      <p:createPortInRequest>
+         <p:PortInRequestData SchemaVersion="1.0">
+            <p:Header>
+               <p:Originator>ESS</p:Originator>
+               <p:Destination>SMG</p:Destination>
+               <p:Timestamp>03022020092419</p:Timestamp>
+            </p:Header>
+            <p:PortInRequestBody>
+               <p:TelusBAN>
+                  <p:BANId>989891048</p:BANId>
+                  <p:BANType>I</p:BANType>
+                  <p:BANSubType>R</p:BANSubType>
+                  <p:TargetBrand>1</p:TargetBrand>
+                  <p:PostalCode>T3G1Z2</p:PostalCode>
+                  <p:Province>AB</p:Province>
+                  <p:FirstName>SOHAIB</p:FirstName>
+                  <p:LastName>SYED</p:LastName>
+               </p:TelusBAN>
+               <p:TelusSubscriber>
+                  <p:AlternateContactNumber>403-400-3989</p:AlternateContactNumber>
+                  <p:PostalCode>T3G1Z2</p:PostalCode>
+                  <p:Province>AB</p:Province>
+                  <p:LanguagePref>E</p:LanguagePref>
+               </p:TelusSubscriber>
+               <p:ProductType>EXT_2H</p:ProductType>
+               <p:ProductBillingMethodType>POSTPAID</p:ProductBillingMethodType>
+               <p:AgencyAuth>Y</p:AgencyAuth>
+               <p:AgencyAuthDate>2020-03-04T03:44:18.257Z</p:AgencyAuthDate>
+               <p:AgencyAuthName>SOHAIB SYED</p:AgencyAuthName>
+               <p:InitiatorRepresentative>9220435</p:InitiatorRepresentative>
+               <p:BillingAddress>
+                  <p:BillPrefix />
+                  <p:BillFirstName>SOHAIB</p:BillFirstName>
+                  <p:BillLastName>SYED</p:BillLastName>
+                  <p:BillSuffix />
+                  <p:BusName>SYED</p:BusName>
+                  <p:BillStNum>7</p:BillStNum>
+                  <p:BillStName>HAWKWOOD DRIVE NORTHWEST</p:BillStName>
+                  <p:BillStDir />
+                  <p:City>CALGARY</p:City>
+                  <p:Province>AB</p:Province>
+                  <p:PostalCode>T3G1Z2</p:PostalCode>
+                  <p:Country>CAN</p:Country>
+               </p:BillingAddress>
+               <Remarks />
+               <p:AcctInfo>
+                  <p:PIN />
+               </p:AcctInfo>
+               <p:PortTN>
+                  <p:PhoneNumber>#(tn)</p:PhoneNumber>
+               </p:PortTN>
+               <p:AutoActivate>Y</p:AutoActivate>
+               <p:DSL>N</p:DSL>
+               <p:EUMI>N</p:EUMI>
+               <p:OldResellerName>TELUS</p:OldResellerName>
+            </p:PortInRequestBody>
+         </p:PortInRequestData>
+      </p:createPortInRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

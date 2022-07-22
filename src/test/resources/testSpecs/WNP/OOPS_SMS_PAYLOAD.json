@@ -1,0 +1,38 @@
+{
+	"Event": {
+		"object": [
+			{
+				"characteristic": [
+					{
+						"name": "originatingAddress",
+						"value": [
+							#(TN)
+						]
+					},
+					{
+						"name": "destinationAddress",
+						"value": [
+							"18774847586"
+						]
+					},
+					{
+						"name": "dateTime",
+						"value": [
+							"2021-08-12T08:05:40.778Z"
+						]
+					},
+					{
+						"name": "messageText",
+						"value": [
+							"1"
+						]
+					}
+				],
+				"specName": "SMSReplyInfo"
+			}
+		],
+		"source": "Adobe_Genesys",
+		"specName": "INBOUND_SMS",
+		"timestamp": "2021-08-12T05:40:52.778Z"
+	}
+}

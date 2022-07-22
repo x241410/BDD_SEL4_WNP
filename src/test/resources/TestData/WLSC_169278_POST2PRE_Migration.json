@@ -1,0 +1,159 @@
+{
+	"PT168": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_SUB": "4161266243",
+			"TELUS_BAN": "70960970"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"EXPECTED_CONSUMER_TYPE_BEFORE": "Consumer - Regular",
+			"EXPECTED_CONSUMER_TYPE_AFTER": "Consumer - Pay & Talk",
+			"OFFER_TYPE": "Migration Offer Type",
+			"NO_OFFERS_AVAILABLE_TEXT": "No Offers Available message not displayed",
+			"REQUIRED_OFFER_TEXT": "POST2PRE - Postpaid to Prepaid Migration",
+			"REDEMPTION_OPTION_VALUE": "Verbal over the phone",
+			"MIGRATION_REASON_VALUE": "Hardware",
+			"STARTER_KIT_NOT_REQ": "No Starter Kit Required",
+			"TITLE": "Mr.",
+			"HRT_PIN": "9874",
+			"DEVICE_TYPE_VALUE": "Digital, Feature Phone",
+			"RATE_PLAN_TOPUP_VALUE": "$100.00",
+			"SELECT_PRICE_AND_PLAN_VALUE": "Nationwide Talk & Text 15 ($15.00)",
+			"EXPECTED_MIGRATION_SYSTEM_TEXT": "Subscriber migrated from Post-paid to Pre-paid",
+			"CC_NUMBER": "5191237898447343",
+			"CC_CVV": "001",
+			"CC_EXPIRY_MONTH": "03",
+			"CC_EXPIRY_YEAR": "2024"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_AFTER": "Port In Request Complete En,NPAC Confirm En,Activate ACK En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"EXPECTED_BRAND_NAME": "Telus regular brand",
+			"EXPECTED_OSP_NAME": "FICTICIOUS WIRELESS TP",
+			"EXPECTED_NSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"EXPECTED_NLSP_NAME": "TELUS COMMUNICATIONS - MOBILITY"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"ORDER_STATE": "complete",
+			"PENIDNG_ORDERS_COUNT": 0,
+			"EXPECTED_CONSUMER_TYPE_BEFORE": "postpaid",
+			"EXPECTED_CONSUMER_TYPE_AFTER": "prepaid"
+		}
+	},
+	"PT148": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_SUB": "4161934872",
+			"TELUS_BAN": "70949545"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"EXPECTED_CONSUMER_TYPE_BEFORE": "Consumer - Regular",
+			"EXPECTED_CONSUMER_TYPE_AFTER": "Consumer - Pay & Talk",
+			"OFFER_TYPE": "Migration Offer Type",
+			"NO_OFFERS_AVAILABLE_TEXT": "No Offers Available message not displayed",
+			"REQUIRED_OFFER_TEXT": "POST2PRE - Postpaid to Prepaid Migration",
+			"REDEMPTION_OPTION_VALUE": "Verbal over the phone",
+			"MIGRATION_REASON_VALUE": "Hardware",
+			"STARTER_KIT_NOT_REQ": "No Starter Kit Required",
+			"TITLE": "Mr.",
+			"HRT_PIN": "9874",
+			"DEVICE_TYPE_VALUE": "Digital, Feature Phone",
+			"RATE_PLAN_TOPUP_VALUE": "$100.00",
+			"SELECT_PRICE_AND_PLAN_VALUE": "Nationwide Talk & Text 15 ($15.00)",
+			"EXPECTED_MIGRATION_SYSTEM_TEXT": "Subscriber migrated from Post-paid to Pre-paid",
+			"CC_NUMBER": "5191237898447343",
+			"CC_CVV": "001",
+			"CC_EXPIRY_MONTH": "03",
+			"CC_EXPIRY_YEAR": "2024"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_AFTER": "Port In Request Complete En,NPAC Confirm En,Activate ACK En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"EXPECTED_BRAND_NAME": "Telus regular brand",
+			"EXPECTED_OSP_NAME": "FICTICIOUS WIRELESS TP",
+			"EXPECTED_NSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"EXPECTED_NLSP_NAME": "TELUS COMMUNICATIONS - MOBILITY"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"ORDER_STATE": "complete",
+			"PENIDNG_ORDERS_COUNT": 0,
+			"EXPECTED_CONSUMER_TYPE_BEFORE": "postpaid",
+			"EXPECTED_CONSUMER_TYPE_AFTER": "prepaid"
+		}
+	},
+	"PT140": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_SUB": "4161266243",
+			"TELUS_BAN": "70960970"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"EXPECTED_CONSUMER_TYPE_BEFORE": "Consumer - Regular",
+			"EXPECTED_CONSUMER_TYPE_AFTER": "Consumer - Pay & Talk",
+			"OFFER_TYPE": "Migration Offer Type",
+			"NO_OFFERS_AVAILABLE_TEXT": "No Offers Available message not displayed",
+			"REQUIRED_OFFER_TEXT": "POST2PRE - Postpaid to Prepaid Migration",
+			"REDEMPTION_OPTION_VALUE": "Verbal over the phone",
+			"MIGRATION_REASON_VALUE": "Hardware",
+			"STARTER_KIT_NOT_REQ": "No Starter Kit Required",
+			"TITLE": "Mr.",
+			"HRT_PIN": "9874",
+			"DEVICE_TYPE_VALUE": "Digital, Feature Phone",
+			"RATE_PLAN_TOPUP_VALUE": "$100.00",
+			"SELECT_PRICE_AND_PLAN_VALUE": "Nationwide Talk & Text 15 ($15.00)",
+			"EXPECTED_MIGRATION_SYSTEM_TEXT": "Subscriber migrated from Post-paid to Pre-paid",
+			"CC_NUMBER": "5191237898447343",
+			"CC_CVV": "001",
+			"CC_EXPIRY_MONTH": "03",
+			"CC_EXPIRY_YEAR": "2024"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_AFTER": "Port In Request Complete En,NPAC Confirm En,Activate ACK En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"EXPECTED_BRAND_NAME": "Telus regular brand",
+			"EXPECTED_OSP_NAME": "FICTICIOUS WIRELESS TP",
+			"EXPECTED_NSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"EXPECTED_NLSP_NAME": "TELUS COMMUNICATIONS - MOBILITY"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"ORDER_STATE": "complete",
+			"PENIDNG_ORDERS_COUNT": 0,
+			"EXPECTED_CONSUMER_TYPE_BEFORE": "postpaid",
+			"EXPECTED_CONSUMER_TYPE_AFTER": "prepaid"
+		}
+	}
+}
+		

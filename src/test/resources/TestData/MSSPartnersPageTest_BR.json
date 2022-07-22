@@ -1,0 +1,114 @@
+{
+	"PT168": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_SUB": "4161405915",
+			"TELUS_BAN": "70970021"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"CANCELLED_STATUS": "DELETED",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete",
+			"PENIDNG_ORDERS_COUNT": 0
+		},
+		"MSS_CONSTANTS": {
+			"ACCOUNT_TYPE" : "BR",
+			"MSS_OFFER_NAME": "BYOD Activation",
+            "MSS_OFFER_PROGRAM_ID": "1015314",
+            "MSS_OFFER_HEADER": "MSS AUTOMATION CONSUMER",
+			"PORT-IN_FLAG": false,
+			"NEW_RATE_PLAN": "$35.00 - $35 GoO EPP BYOD NL",
+			"NEW_NUMBER_SERIES":"(403) 191",
+			"VALID_TELUS_SIM_NUMBER": "8912230000414708065",  
+			"BUSINESS_PHONE_NUMBER": "647115",
+			"CONTACT_ACCOUNT_NUMBER": "989890562",			
+			"DEVICE_TYPE_OFFER_PAGE": "Smartphone",
+			"PIN": "9874",
+			"LEGAL_BUSINESS_NAME": "WNP_AUTO_FN",
+			"TRADE_NAME": "AABT",
+			"FIRST_NAME": "WNP_AUTO_FN",
+			"LAST_NAME": "AA",
+			"STREET_NUMBER": "200",
+			"STREET_NAME": "Consilium Place",
+			"CUSTOMER_CITY": "Calgary",
+			"PROVINCE": "Alberta",
+			"POSTAL_CODE": "M1H3E4",
+			"HOME_PHONE_NUMBER": "98989",
+			"BIRTH_MONTH": "January",
+			"BIRTH_DATE": "11",
+			"BIRTH_YEAR": "1991",
+			"NUMBER_TO_BE_PORTED": "6471150561"
+		}
+	},
+	"PT148": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_SUB": "4161405915",
+			"TELUS_BAN": "70970021"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"CANCELLED_STATUS": "DELETED",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete",
+			"PENIDNG_ORDERS_COUNT": 0
+		},
+		"MSS_CONSTANTS": {
+			
+		}
+	},
+	"PT140": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_SUB": "4161405915",
+			"TELUS_BAN": "70970021"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"CANCELLED_STATUS": "DELETED",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete",
+			"PENIDNG_ORDERS_COUNT": 0
+		},
+		"MSS_CONSTANTS": {
+			
+		}
+	}
+}

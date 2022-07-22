@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<finalTwoWaySmsResponseNotification>
+	<finalTwoWaySmsResponseBody>
+		<customerResponses>
+			<arrCustomerResponse>
+				<subscriberNumber>#(TN)</subscriberNumber>
+				<customerResponse>#(responseYN)</customerResponse>
+				<timeOfResponse>#(dateTime)</timeOfResponse>
+				<language>#(languageCode)</language>
+			</arrCustomerResponse>
+		</customerResponses>
+		<billingAccountNumber>#(BAN)</billingAccountNumber>
+		<requestId>#(pacInternalReqNum)</requestId>
+	</finalTwoWaySmsResponseBody>
+</finalTwoWaySmsResponseNotification>

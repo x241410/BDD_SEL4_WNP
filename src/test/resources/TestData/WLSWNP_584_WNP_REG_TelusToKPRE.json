@@ -1,0 +1,212 @@
+{
+	"PT168": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_POSTPAID": "4161405405",
+			"TELUS_BAN": "70968866"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"PORTED_MSG": "Subscriber Ported Out",
+			"PORT_OUT_INDICATOR_TEXT": "RIGHT",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found",
+			"COMM_HISTORY_DESCRIPTION": "WNP Inter Brand Portout SMS English",
+			"COMM_HISTORY_TYPE": "Sms",
+			"COMM_HISTORY_STATUS": "Pending",
+			"COMM_HISTORY_CATEGORY": "Account information & management"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_BEFORE": "Delay-Wait",
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_BEFORE": "Auth SMS Sent,Port Out Rquest En",
+			"PORT_SUMMARY_EVENTS_AFTER": "Customer Auth Success,Port out complete En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"EXPECTED_BRAND_NAME": "RedKnee",
+			"EXPECTED_OSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"EXPECTED_NSP_NAME": "",
+			"EXPECTED_NLSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"SKIP_VALIDATION_CONFIRM_MSG": "Skip validation is performed successfully."
+		},
+		"SMS_RESPONSE_CONSTANTS": {
+			"2FA_SMS_RESPONSE_API_BASE_XML_PATH": "services\\BasePayloads\\2FA_SMS_Payload.xml",
+			"2FA_SMS_RESPONSE_API_XML_PATH": "D:\\Test2\\",
+			"2FA_SMS_RESPONSE": "YES",
+			"EXPECTED_STATUS": "OK",
+			"LANGUAGE_CODE": "EN",
+			"EXPECTED_STATUS_MSG": "SENT_WITH_ACK"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete"
+		},
+		"RK_PORTAL_CONSTANTS": {
+			"SIM_NUMBER": "8912230000414488148",
+			"FIRST_NAME": "WNPFN",
+			"LAST_NAME": "WNPLN",
+			"NEW_NUMBER_FLAG": false,
+			"CITY": "PT168_PERF_TELUS",
+			"PROVINCE": "Alberta",
+			"POSTAL_CODE": "T1H4H5",
+			"PASSWORD": "Automation@123",
+			"SECURITY_QUES": "In what year was your father born?",
+			"SECURITY_ANS": "1985",
+			"SELECT_PREFERRED_LANGUAGE": "English",
+			"PIN": "9873",
+			"ALTERNATE_CONTACT_NUMBER": "1212121212",
+			"OLD_SERVICE_PROVIDER": "TELUS",
+			"CREDIT_CARD_NUMBER": "346923005050501",
+			"EXPIRY_DATE": "04/22",
+			"CVV2": "8760"
+		}
+	},
+	"PT148": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_POSTPAID": "5871670365",
+			"TELUS_BAN": "70927045"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"PORTED_MSG": "Subscriber Ported Out",
+			"PORT_OUT_INDICATOR_TEXT": "RIGHT",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found",
+			"COMM_HISTORY_DESCRIPTION": "WNP Inter Brand Portout SMS English",
+			"COMM_HISTORY_TYPE": "Sms",
+			"COMM_HISTORY_STATUS": "Pending",
+			"COMM_HISTORY_CATEGORY": "Account information & management"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_BEFORE": "Delay-Wait",
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_BEFORE": "Auth SMS Sent,Port Out Rquest En",
+			"PORT_SUMMARY_EVENTS_AFTER": "Customer Auth Success,Port out complete En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"EXPECTED_BRAND_NAME": "RedKnee",
+			"EXPECTED_OSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"EXPECTED_NSP_NAME": "",
+			"EXPECTED_NLSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"SKIP_VALIDATION_CONFIRM_MSG": "Skip validation is performed successfully."
+		},
+		"SMS_RESPONSE_CONSTANTS": {
+			"2FA_SMS_RESPONSE_API_BASE_XML_PATH": "services\\BasePayloads\\2FA_SMS_Payload.xml",
+			"2FA_SMS_RESPONSE_API_XML_PATH": "D:\\Test2\\",
+			"2FA_SMS_RESPONSE": "O",
+			"EXPECTED_STATUS": "OK",
+			"LANGUAGE_CODE": "EN",
+			"EXPECTED_STATUS_MSG": "SENT_WITH_ACK"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete"
+		},
+		"RK_PORTAL_CONSTANTS": {
+			"SIM_NUMBER": "8912230000415136670",
+			"FIRST_NAME": "WNPFN",
+			"LAST_NAME": "WNPLN",
+			"NEW_NUMBER_FLAG": false,
+			"CITY": "PT148_LAB1A_TELUS",
+			"PROVINCE": "Ontario",
+			"POSTAL_CODE": "M1H4H5",
+			"PASSWORD": "Automation@123",
+			"SECURITY_QUES": "In what year was your father born?",
+			"SECURITY_ANS": "1985",
+			"SELECT_PREFERRED_LANGUAGE": "English",
+			"PIN": "9873",
+			"ALTERNATE_CONTACT_NUMBER": "1212121212",
+			"OLD_SERVICE_PROVIDER": "TELUS",
+			"CREDIT_CARD_NUMBER": "346923005050501",
+			"EXPIRY_DATE": "04/22",
+			"CVV2": "8760"
+		}
+	},
+	"PT140": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_POSTPAID": "4161405405",
+			"TELUS_BAN": "70968866"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"PORTED_MSG": "Subscriber Ported Out",
+			"PORT_OUT_INDICATOR_TEXT": "RIGHT",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found",
+			"COMM_HISTORY_DESCRIPTION": "WNP Inter Brand Portout SMS English",
+			"COMM_HISTORY_TYPE": "Sms",
+			"COMM_HISTORY_STATUS": "Pending",
+			"COMM_HISTORY_CATEGORY": "Account information & management"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_BEFORE": "Delay-Wait",
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_BEFORE": "Auth SMS Sent,Port Out Rquest En",
+			"PORT_SUMMARY_EVENTS_AFTER": "Customer Auth Success,Port out complete En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"EXPECTED_BRAND_NAME": "RedKnee",
+			"EXPECTED_OSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"EXPECTED_NSP_NAME": "",
+			"EXPECTED_NLSP_NAME": "TELUS COMMUNICATIONS - MOBILITY",
+			"SKIP_VALIDATION_CONFIRM_MSG": "Skip validation is performed successfully."
+		},
+		"SMS_RESPONSE_CONSTANTS": {
+			"2FA_SMS_RESPONSE_API_BASE_XML_PATH": "services\\BasePayloads\\2FA_SMS_Payload.xml",
+			"2FA_SMS_RESPONSE_API_XML_PATH": "D:\\Test2\\",
+			"2FA_SMS_RESPONSE": "O",
+			"EXPECTED_STATUS": "OK",
+			"LANGUAGE_CODE": "EN",
+			"EXPECTED_STATUS_MSG": "SENT_WITH_ACK"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete"
+		},
+		"RK_PORTAL_CONSTANTS": {
+			"SIM_NUMBER": "8912230000414488148",
+			"FIRST_NAME": "WNPFN",
+			"LAST_NAME": "WNPLN",
+			"NEW_NUMBER_FLAG": false,
+			"CITY": "PT168_PERF_TELUS",
+			"PROVINCE": "Alberta",
+			"POSTAL_CODE": "T1H4H5",
+			"PASSWORD": "Automation@123",
+			"SECURITY_QUES": "In what year was your father born?",
+			"SECURITY_ANS": "1985",
+			"SELECT_PREFERRED_LANGUAGE": "English",
+			"PIN": "9873",
+			"ALTERNATE_CONTACT_NUMBER": "1212121212",
+			"OLD_SERVICE_PROVIDER": "TELUS",
+			"CREDIT_CARD_NUMBER": "346923005050501",
+			"EXPIRY_DATE": "04/22",
+			"CVV2": "8760"
+		}
+	}
+}

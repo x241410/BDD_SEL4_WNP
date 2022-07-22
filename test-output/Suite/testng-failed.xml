@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <listeners>
+    <listener class-name="com.test.reporting.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="3" name="Test(failed)" parallel="methods">
+    <groups>
+      <run>
+        <include name="MSSPartnersPageTest_BR"/>
+        <include name="MSSPartnersPageTest_BR2"/>
+        <include name="MSSPartnersPageTest_BR3"/>
+        <exclude name="OSPCancelRequestKoodoFromTelusDryRun"/>
+        <exclude name="SendCancellationtoExternalServiceProviderDryRun"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_BR3">
+        <methods>
+          <include name="afterTest"/>
+          <include name="BeforeMethod"/>
+          <include name="testMethod_MSS" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_BR3 -->
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_BR2">
+        <methods>
+          <include name="testMethod_MSS" invocation-numbers="0"/>
+          <include name="afterTest"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_BR2 -->
+      <class name="com.telus.wnp.tests.MSSPartnersPageTest_BR">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="testMethod_MSS" invocation-numbers="0"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.telus.wnp.tests.MSSPartnersPageTest_BR -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

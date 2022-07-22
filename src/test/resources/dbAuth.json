@@ -1,0 +1,23 @@
+{
+	"tdmRepo": {
+			"TDM":{
+    			"host": " an05107.ent.agt.ab.ca", 
+    			"port": "41521", 
+    			"serviceName": "ODSCDDMsva", 
+    			"username": "API_TESTING", 
+    			"password": "QVBJX1RFU1RJTkc="
+    		}	
+  	},
+  	
+	"DEMO": {
+		"CUSTODS": {
+			"host": "rac_ln98253-scan.corp.ads", 
+			"port": "41521", 
+			"serviceName": "CUSTEPV", 
+			"username": "ACE_APP", 
+			"password": "czR1M0FjVVg=",
+			"query": '#(query)'
+		}	
+  	}
+	  
+ }

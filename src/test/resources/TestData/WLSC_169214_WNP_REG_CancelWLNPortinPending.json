@@ -1,0 +1,146 @@
+{
+	"PT168": {
+		"SUB_AND_BAN_DETAILS": {
+			"WLN_SUB": "6471506768",
+			"WLN_BAN": "989895037"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found"
+		},
+		"API_CONSTANTS": {
+			"OLD_RESELLER_NAME": "TELUS",
+			"PROVINCE": "AB",
+			"BAN_TYPE": "I",
+			"BAN_SUB_TYPE": "R",
+			"TARGET_BRAND_IDENTIFIER": "1"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_BEFORE": "Pending",
+			"PORT_STATUS_AFTER": "Cancelled",
+			"PORT_SUMMARY_EVENTS_BEFORE": "Create Request En",
+			"PORT_SUMMARY_EVENTS_AFTER": "Cancel Request En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"REASON_CATEGORY_CANCEL_PAGE": "Cancel due to incorrect port information",
+			"REMARKS_CANCEL_PAGE": "WNP AUTOMATION TEST USER CANCEL REQ",
+			"NOTE_CATEGORY_CANCEL_PAGE": "CANC",
+			"NOTE_TYPE_CANCEL_PAGE": "CAN",
+			"CANCEL_REQUEST_CONFIRM_MSG": "Port request is cancelled successfully."
+		},
+		"LSMS_CONSTANTS": {
+			"EXPECTED_SPID": "TU07"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete",
+			"MAX_WAIT_TIME": 90000
+		}
+	},
+	"PT148": {
+		"SUB_AND_BAN_DETAILS": {
+			"WLN_SUB": "4161137303",
+			"WLN_BAN": "989897303"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found"
+		},
+		"API_CONSTANTS": {
+			"OLD_RESELLER_NAME": "TELUS",
+			"PROVINCE": "AB",
+			"BAN_TYPE": "I",
+			"BAN_SUB_TYPE": "R",
+			"TARGET_BRAND_IDENTIFIER": "1"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_BEFORE": "Pending",
+			"PORT_STATUS_AFTER": "Cancelled",
+			"PORT_SUMMARY_EVENTS_BEFORE": "Create Request En",
+			"PORT_SUMMARY_EVENTS_AFTER": "Cancel Request En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"REASON_CATEGORY_CANCEL_PAGE": "Cancel due to incorrect port information",
+			"REMARKS_CANCEL_PAGE": "WNP AUTOMATION TEST USER CANCEL REQ",
+			"NOTE_CATEGORY_CANCEL_PAGE": "CANC",
+			"NOTE_TYPE_CANCEL_PAGE": "CAN",
+			"CANCEL_REQUEST_CONFIRM_MSG": "Port request is cancelled successfully."
+		},
+		"LSMS_CONSTANTS": {
+			"EXPECTED_SPID": "TU07"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete",
+			"MAX_WAIT_TIME": 90000
+		}
+	},
+	"PT140": {
+		"SUB_AND_BAN_DETAILS": {
+			"WLN_SUB": "6471506768",
+			"WLN_BAN": "989895037"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_INACTIVE": "inactive",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found"
+		},
+		"API_CONSTANTS": {
+			"OLD_RESELLER_NAME": "TELUS",
+			"PROVINCE": "AB",
+			"BAN_TYPE": "I",
+			"BAN_SUB_TYPE": "R",
+			"TARGET_BRAND_IDENTIFIER": "1"
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_BEFORE": "Pending",
+			"PORT_STATUS_AFTER": "Cancelled",
+			"PORT_SUMMARY_EVENTS_BEFORE": "Create Request En",
+			"PORT_SUMMARY_EVENTS_AFTER": "Cancel Request En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria.",
+			"REASON_CATEGORY_CANCEL_PAGE": "Cancel due to incorrect port information",
+			"REMARKS_CANCEL_PAGE": "WNP AUTOMATION TEST USER CANCEL REQ",
+			"NOTE_CATEGORY_CANCEL_PAGE": "CANC",
+			"NOTE_TYPE_CANCEL_PAGE": "CAN",
+			"CANCEL_REQUEST_CONFIRM_MSG": "Port request is cancelled successfully."
+		},
+		"LSMS_CONSTANTS": {
+			"EXTERNAL_NUM_SPID_TU02": "TU02",
+			"LSMS_API_XML_PATH": "services\\WNP\\LSMS_SPID_Payload.xml",
+			"EXPECTED_SPID": "TU02"
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete",
+			"MAX_WAIT_TIME": 90000
+		}
+	}
+}
+		

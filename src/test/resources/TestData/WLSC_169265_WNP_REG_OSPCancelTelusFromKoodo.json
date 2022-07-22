@@ -1,0 +1,107 @@
+{
+	"PT168": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_POSTPAID": "4161404601",
+			"TELUS_BAN": "70970340",
+			"KOODO_POSTPAID": "4161404706",
+			"KOODO_BAN": "70970657"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"CONFIRMATION_MESSAGE": "YOUR REQUEST HAS BEEN SUBMITTED",
+			"COMMENTS_FOR_OSP_CANCEL_REQUEST": "WNP AUTOMATION TEST USER COMMENTS",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found",
+			"FUTURE_DATE_FLAG": false
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_AFTER": "Cancel Request Complete,Create Request En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria."
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"CANCELLED_STATUS": "DELETED",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete"
+		}
+	},
+	"PT148": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_POSTPAID": "4161935451",
+			"TELUS_BAN": "70982369",
+			"KOODO_POSTPAID": "4161997156",
+			"KOODO_BAN": "70901868"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"CONFIRMATION_MESSAGE": "YOUR REQUEST HAS BEEN SUBMITTED",
+			"COMMENTS_FOR_OSP_CANCEL_REQUEST": "WNP AUTOMATION TEST USER COMMENTS",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found",
+			"FUTURE_DATE_FLAG": false
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_AFTER": "Cancel Request Complete,Create Request En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria."
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"CANCELLED_STATUS": "DELETED",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete"
+		}
+	},
+	"PT140": {
+		"SUB_AND_BAN_DETAILS": {
+			"TELUS_POSTPAID": "4161263143",
+			"TELUS_BAN": "70928639",
+			"KOODO_POSTPAID": "4161263140",
+			"KOODO_BAN": "70927859"
+		},
+		"SMART_DESKTOP_CONSTANTS": {
+			"SEARCHBY_PHONE_NUMBER": "Phone Number",
+			"SUB_STATUS_ACTIVE": "active",
+			"SUB_STATUS_CANCELLED": "cancelled",
+			"CONFIRMATION_MESSAGE": "YOUR REQUEST HAS BEEN SUBMITTED",
+			"COMMENTS_FOR_OSP_CANCEL_REQUEST": "WNP AUTOMATION TEST USER COMMENTS",
+			"NO_MATCHING_ACCOUNT_FOUND_ERR_MSG": "No matching account found",
+			"FUTURE_DATE_FLAG": false
+		},
+		"PAC_CONSTANTS": {
+			"PORT_STATUS_AFTER": "Complete",
+			"PORT_SUMMARY_EVENTS_AFTER": "Cancel Request Complete,Create Request En",
+			"NO_PORT_OSP_CANCEL_REQ_PRESENCE_ERR_MSG": "There is no Port/OSP Cancel request that meets this criteria."
+		},
+		"RCM_CONSTANTS": {
+			"SUB_STATUS_AI": "AI",
+			"SUB_STATUS_AG": "AG",
+			"RESOURCE_TYPE_UMSISDN": "UMSISDN",
+			"NO_SEARCH_RESULTS_FOUND_ERR_MSG": "No search results found for the specified criteria."
+		},
+		"CODA_CONSTANTS": {
+			"SEARCH_BY_PHONE_NUMBER": "phoneNumber",
+			"ACTIVE_STATUS": "ACTIVE",
+			"CANCELLED_STATUS": "DELETED",
+			"INACTIVE_SUB_MSG": "Search Results (0 in 0)",
+			"ORDER_STATE": "complete"
+		}
+	}
+}

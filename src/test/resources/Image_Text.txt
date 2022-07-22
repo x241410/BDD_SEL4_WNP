@@ -1,0 +1,27 @@
+FOX #:
+Serving CO: VANCBCO CSID of the Base Access: 5010644 KNTAON_1 Hines Road - WATC
+IEVC Bandwidth:200 Mbps
+VANCBCO1REO03
+MX960- PREMIUM- DC- ECM
+NID Customer's Router
+— GE-) 7/ 01 Port 1
+’ Port Speed: Port 6 a
+Sz | Port Speed:
+SAP: ClU Model:0906G/ AC Console Customer - IP Details
+RE Sub- interface:GE-) 7/ 01 unit 1500 Management IP:15.6.1.42/24 | HA 232 WAN IPv4:  206.75.120.1/26
+Management RE Sub- interfaceGE-) 7/ 01 unit 401 ? WAN IPv6: <LAN IP>
+RE Sub- interface IPv6: o BGP ASN:
+RE Sub- interface IPv4:206.75.120.3/ 26 Modem TELUS assigned Subnet(s)
+1453455 LAN IPv4:< AN [Pv4>
+LAN IPv6: <LAN_IPv6>
+Customer Provided Subnet(s)
+_ LAN IPv4: <CP LAN IP>
+Routing Table:Default/ Full/ Partial
+Secondary Routing ProtocolBGP
+IES :
+OR: VANCBC010R01 / 15.0.1.2/24
+WATC KNTAON Watchfire Corporation WAN L2 INTERNET EVC NO CPE 0166
+% ELUS"
+Order: 145347 - 1 Design Completed:
+TELUS Restricted Date Completed2020/06/22 Revised Date:
+C3ID: 5010645 Created By:x217794
